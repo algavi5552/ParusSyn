@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParusSyn", "ParusSyn.csproj", "{EB60599A-797F-4D97-9B37-3A397D1658F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7FE18FA2-4927-4CE1-8BCE-2FBA0E022CFF}"
+	ProjectSection(SolutionItems) = preProject
+		SQLHelper.cs = SQLHelper.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB60599A-797F-4D97-9B37-3A397D1658F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB60599A-797F-4D97-9B37-3A397D1658F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB60599A-797F-4D97-9B37-3A397D1658F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB60599A-797F-4D97-9B37-3A397D1658F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92DD5056-2DB3-4355-8F26-FA7D19C121E0}
+	EndGlobalSection
+EndGlobal

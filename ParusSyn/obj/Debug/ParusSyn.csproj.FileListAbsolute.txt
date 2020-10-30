@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ParusSyn\bin\Debug\ParusSyn.exe.config
+C:\Users\User\source\repos\ParusSyn\bin\Debug\ParusSyn.exe
+C:\Users\User\source\repos\ParusSyn\bin\Debug\ParusSyn.pdb
+C:\Users\User\source\repos\ParusSyn\obj\Debug\ParusSyn.Properties.Resources.resources
+C:\Users\User\source\repos\ParusSyn\obj\Debug\ParusSyn.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ParusSyn\obj\Debug\ParusSyn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ParusSyn\obj\Debug\ParusSyn.exe
+C:\Users\User\source\repos\ParusSyn\obj\Debug\ParusSyn.pdb
+C:\Users\User\source\repos\ParusSyn\obj\Debug\ParusSyn.MainForm.resources
+C:\Users\User\source\repos\ParusSyn\obj\Debug\ParusSyn.csprojAssemblyReference.cache
